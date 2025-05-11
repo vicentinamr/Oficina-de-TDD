@@ -58,23 +58,3 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 -----
 
-_Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
-
- <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200"> 
-
-# Simara Conceição
-✓	Desenvolvedora na Thoughtworks
-
-✓	Criadora do Quero Ser Dev, projeto que inspira e ajuda pessoas diversas na migração de carreira pra área de tecnologia.
-
-### Vamos nos conectar!
-
-- [youtube](https://www.youtube.com/queroserdev)
-- [instagram](https://www.instagram.com/simara_conceicao)
-- [linkedin](https://www.linkedin.com/in/simaraconceicao/)
-- [github](https://github.com/simaraconceicao)
-- [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
-- [quero ser dev](https://queroserdev.com)
-
-<br>
-Feito com 💜 por Simara Conceição | Quero Ser Dev
